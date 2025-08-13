@@ -1,15 +1,19 @@
+from datetime import datetime
+from collections import Counter
 from glob import glob
+from itertools import chain
 import os
-
-import numpy as np
-
-from multiprocessing import Pool
-
-import pickle as pkl
 import warnings; warnings.filterwarnings('ignore')
 
 import cv2
+from multiprocessing import Pool
+import numpy as np
+from numpy import dot
+from numpy.linalg import norm
 from ordpy import complexity_entropy
+import pandas as pds
+import pickle as pkl
+from scipy.spatial.distance import cosine, euclidean
 from scipy.stats import skew
 from tqdm import tqdm
 
@@ -117,7 +121,6 @@ def get_categorical_hue(_values):
     return ret_values
 
 
-
 def get_age(curr_df):
     pub_dates = pds.to_datetime(
         curr_df[['publish_year', 'publish_month', 'publish_day']].rename(
@@ -187,7 +190,6 @@ def compute_topic_entropy(_ref_df, _curr_df, window_size=3):
         entropies.append(H_norm)
 
     return entropies
-
 
 
 def get_past_project_curation(_ref_df, _curr_df):
@@ -294,6 +296,5 @@ def compute_euclidean_distance(_ref_df, _curr_df, what, window_size=3, mode='Anc
 
         avg_dist = np.mean(dists)
         distances.append(avg_dist)
-
 
     return distances
