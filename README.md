@@ -28,7 +28,7 @@ Installation using [Miniconda](https://docs.conda.io/projects/continuumio-conda/
 
 ```bash
 git clone https://github.com/sxxmin/BeHance-art-valuation.git
-cd Belief-Embedding
+cd BeHance-art-valuation
 conda create -y --name behance python=3.6.9
 conda activate behance
 pip install -r requirements.txt
@@ -80,7 +80,7 @@ The script provides several command-line options to configure the model training
   - Default: `'EBM'`  
   - Description: Specifies the model to use for prediction. Options include:  
     - `LR` : Linear Regression  
-    - `NB` : Negative Binominal  
+    - `NB` : Negative Binomial  
     - `XGB` : XGBoost  
     - `EBM` : Explainable Boosting Machine
 
@@ -102,7 +102,7 @@ The script provides several command-line options to configure the model training
 * `--using_c_variable`  
   - Type: `bool` (`str2bool`)  
   - Default: `True`  
-  - Description: Determines whether to include the control variable `C` in the model.
+  - Description: Determines whether to include the control variable in the model.
 
 * `--window_opt`  
   - Type: `str`  
