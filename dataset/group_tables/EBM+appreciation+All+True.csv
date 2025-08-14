@@ -1,0 +1,413 @@
+Variable 1,Variable 2,Importance,Group
+Artist_Career_timeline,Artist_Visual_simillarity_latent_PCA_embeddings_Neighboring,0.012650719622330654,Artist & Artist
+Artist_Career_timeline,Artist_Residency-(United Kingdom),0.004009564537277015,Artist & Artist
+Artist_Career_timeline,Artist_Residency-(United Arab Emirates),0.001306149402065998,Artist & Artist
+Artist_Career_timeline,Artist_Residency-(Sweden),0.0023559585268297465,Artist & Artist
+Artist_Career_timeline,Artist_Residency-(Poland),0.002775358502586633,Artist & Artist
+Artist_Career_timeline,Artist_Residency-(Netherlands),0.005578980125111029,Artist & Artist
+Artist_Career_timeline,Artist_Residency-(Italy),0.008705276192549355,Artist & Artist
+Artist_Career_timeline,Artist_Residency-(France),0.004994596279051172,Artist & Artist
+Artist_Career_timeline,Artist_Residency-(Finland),0.000786583704243745,Artist & Artist
+Artist_Career_timeline,Artist_Residency-(China),0.0017572565341006977,Artist & Artist
+Artist_Career_timeline,Artwork_Creative_fields-(Illustration),0.005243053570458993,Artist & Artwork
+Artist_Career_timeline,Artwork_Creative_fields-(Drawing),0.00241775078478512,Artist & Artwork
+Artist_Career_timeline,Artwork_Creative_fields-(Architecture),0.0009311049237167506,Artist & Artwork
+Artist_Career_timeline,Artwork_Visual_Features_latent_PCA_embeddings_dim-104,0.008114613504545174,Artist & Artwork
+Artist_Career_timeline,Artwork_Visual_Features_saturation_Standard_deviation,0.010278626076577918,Artist & Artwork
+Artist_Curation_status_of_the_last_project,Artist_Collaborator_count,0.0031396626744693494,Artist & Artist
+Artist_Curation_status_of_the_last_project,Artist_Inter_project_publication_period,0.004109301374691786,Artist & Artist
+Artist_Platform_membership_join_year_2010,Artist_Visual_simillarity_latent_PCA_embeddings_Neighboring,0.010061265001013104,Artist & Artist
+Artist_Platform_membership_join_year_2010,Artist_Collaborator_count,0.004126347315161616,Artist & Artist
+Artist_Platform_membership_join_year_2010,Artist_Visual_distance_CH_Neighboring,0.006451948510075864,Artist & Artist
+Artist_Platform_membership_join_year_2010,Artist_Visual_distance_HSV_Neighboring,0.00527737615748452,Artist & Artist
+Artist_Platform_membership_join_year_2010,Artist_Visual_distance_RGB_Neighboring,0.0022552630984748645,Artist & Artist
+Artist_Platform_membership_join_year_2013,Artist_Collaborator_count,0.008867573235457879,Artist & Artist
+Artist_Platform_membership_join_year_2014,Artist_Visual_simillarity_latent_PCA_embeddings_Neighboring,0.0061502189166416105,Artist & Artist
+Artist_Platform_membership_join_year_2015,Artist_Visual_distance_HSV_Neighboring,0.003200063274046038,Artist & Artist
+Artist_Project_publication_year_2019,Artist_Collaborator_count,0.004069821894014348,Artist & Artist
+Artist_Residency-(Australia),Artist_Platform_membership_join_year_2014,0.0009183297457513369,Artist & Artist
+Artist_Residency-(Austria),Artist_Platform_membership_join_year_2009,0.001253707565537156,Artist & Artist
+Artist_Residency-(Belgium),Artist_Visual_simillarity_latent_PCA_embeddings_Neighboring,0.0033765854596208137,Artist & Artist
+Artist_Residency-(Belgium),Artist_Visual_distance_HSV_Neighboring,0.0016542846979156008,Artist & Artist
+Artist_Residency-(Belgium),Artist_Visual_distance_CH_Neighboring,0.0020050929139044495,Artist & Artist
+Artist_Residency-(Brazil),Artist_Platform_membership_join_year_2009,0.0022197042675006374,Artist & Artist
+Artist_Residency-(Bulgaria),Artist_Topic_diversity,0.000773459202063655,Artist & Artist
+Artist_Residency-(Bulgaria),Artist_Visual_distance_CH_Neighboring,0.0010908382838100508,Artist & Artist
+Artist_Residency-(Bulgaria),Artist_Platform_membership_join_year_2008,0.0007066697422851677,Artist & Artist
+Artist_Residency-(Canada),Artist_Platform_membership_join_year_2012,0.003795698913770959,Artist & Artist
+Artist_Residency-(China),Artist_Visual_distance_HSV_Neighboring,0.0030513804051636607,Artist & Artist
+Artist_Residency-(China),Artist_Visual_distance_RGB_Neighboring,0.0016836493999455656,Artist & Artist
+Artist_Residency-(China),Artist_Visual_simillarity_latent_PCA_embeddings_Neighboring,0.0028279601876461764,Artist & Artist
+Artist_Residency-(Colombia),Artist_Topic_diversity,0.0016120695097989312,Artist & Artist
+Artist_Residency-(Colombia),Artist_Platform_membership_join_year_2011,0.0015512082915689533,Artist & Artist
+Artist_Residency-(Colombia),Artist_Platform_membership_join_year_2010,0.0014873566624306772,Artist & Artist
+Artist_Residency-(Czech Republic),Artist_Visual_simillarity_latent_PCA_embeddings_Neighboring,0.0008493203981696112,Artist & Artist
+Artist_Residency-(Finland),Artist_Collaborator_count,0.00040103298557263376,Artist & Artist
+Artist_Residency-(Finland),Artist_Topic_diversity,0.0008491592196099072,Artist & Artist
+Artist_Residency-(Finland),Artist_Platform_membership_join_year_2009,0.0006951012253546543,Artist & Artist
+Artist_Residency-(Finland),Artist_Platform_membership_join_year_2010,0.0002793635717945597,Artist & Artist
+Artist_Residency-(Finland),Artist_Visual_simillarity_latent_PCA_embeddings_Neighboring,0.0011128962909448476,Artist & Artist
+Artist_Residency-(France),Artist_Platform_membership_join_year_2009,0.004593841624556645,Artist & Artist
+Artist_Residency-(France),Artist_Visual_distance_CH_Neighboring,0.004523597820171085,Artist & Artist
+Artist_Residency-(France),Artist_Platform_membership_join_year_2011,0.0035503007689020095,Artist & Artist
+Artist_Residency-(France),Artist_Collaborator_count,0.002696634359029472,Artist & Artist
+Artist_Residency-(Germany),Artist_Platform_membership_join_year_2011,0.006802911785262504,Artist & Artist
+Artist_Residency-(Germany),Artist_Visual_simillarity_latent_PCA_embeddings_Neighboring,0.0021651391286652967,Artist & Artist
+Artist_Residency-(Germany),Artist_Platform_membership_join_year_2009,0.004517877512039888,Artist & Artist
+Artist_Residency-(Greece),Artist_Platform_membership_join_year_2010,0.0025835673413849842,Artist & Artist
+Artist_Residency-(Israel),Artist_Platform_membership_join_year_2010,0.0013633352187712865,Artist & Artist
+Artist_Residency-(Italy),Artist_Collaborator_count,0.002959662459918493,Artist & Artist
+Artist_Residency-(Italy),Artist_Platform_membership_join_year_2013,0.003279294693302427,Artist & Artist
+Artist_Residency-(Japan),Artist_Platform_membership_join_year_2010,0.0020418562429083496,Artist & Artist
+Artist_Residency-(Japan),Artist_Visual_distance_RGB_Neighboring,0.0024449983760306353,Artist & Artist
+Artist_Residency-(Japan),Artist_Visual_distance_HSV_Neighboring,0.002084921214285468,Artist & Artist
+Artist_Residency-(Japan),Artist_Topic_diversity,0.0020611636333677766,Artist & Artist
+Artist_Residency-(Japan),Artist_Inter_project_publication_period,0.002866946356175375,Artist & Artist
+Artist_Residency-(Lithuania),Artist_Platform_membership_join_year_2016,0.0011493249592092437,Artist & Artist
+Artist_Residency-(Mexico),Artist_Platform_membership_join_year_2008,0.0021735722256728284,Artist & Artist
+Artist_Residency-(Netherlands),Artist_Project_publication_year_2011,0.00043481007428473537,Artist & Artist
+Artist_Residency-(Netherlands),Artist_Visual_distance_HSV_Neighboring,0.0015031818893836344,Artist & Artist
+Artist_Residency-(Netherlands),Artist_Visual_distance_RGB_Neighboring,0.004211778982698723,Artist & Artist
+Artist_Residency-(Netherlands),Artist_Platform_membership_join_year_2010,0.0016950252192784183,Artist & Artist
+Artist_Residency-(Netherlands),Artist_Visual_distance_CH_Neighboring,0.0036024001031350595,Artist & Artist
+Artist_Residency-(New Zealand),Artist_Platform_membership_join_year_2011,0.0003443431890293507,Artist & Artist
+Artist_Residency-(New Zealand),Artist_Platform_membership_join_year_2013,0.0012074841224769854,Artist & Artist
+Artist_Residency-(New Zealand),Artist_Visual_simillarity_latent_PCA_embeddings_Neighboring,0.0011863276972674283,Artist & Artist
+Artist_Residency-(Norway),Artist_Platform_membership_join_year_2007,0.0012298764860736362,Artist & Artist
+Artist_Residency-(Poland),Artist_Platform_membership_join_year_2017,0.00041121295102554704,Artist & Artist
+Artist_Residency-(Poland),Artist_Platform_membership_join_year_2014,0.002735765989692259,Artist & Artist
+Artist_Residency-(Poland),Artist_Visual_simillarity_latent_PCA_embeddings_Neighboring,0.001803776625330857,Artist & Artist
+Artist_Residency-(Portugal),Artist_Visual_distance_RGB_Neighboring,0.0029706849918314853,Artist & Artist
+Artist_Residency-(Portugal),Artist_Platform_membership_join_year_2008,0.0008927159389003822,Artist & Artist
+Artist_Residency-(Russian Federation),Artist_Platform_membership_join_year_2008,0.0021834527478525557,Artist & Artist
+Artist_Residency-(Russian Federation),Artist_Topic_diversity,0.0036095865510924075,Artist & Artist
+Artist_Residency-(South Africa),Artist_Visual_simillarity_latent_PCA_embeddings_Neighboring,0.002123074748597807,Artist & Artist
+Artist_Residency-(South Africa),Artist_Platform_membership_join_year_2011,0.0015339468676772302,Artist & Artist
+Artist_Residency-(South Africa),Artist_Platform_membership_join_year_2012,0.0023020884998270303,Artist & Artist
+Artist_Residency-(South Africa),Artist_Platform_membership_join_year_2013,0.0010445077151889583,Artist & Artist
+Artist_Residency-(South Africa),Artist_Inter_project_publication_period,0.0033023918541458573,Artist & Artist
+Artist_Residency-(South Africa),Artist_Collaborator_count,0.001367473447943555,Artist & Artist
+Artist_Residency-(South Korea),Artist_Platform_membership_join_year_2014,0.004573330121371471,Artist & Artist
+Artist_Residency-(Spain),Artist_Platform_membership_join_year_2007,0.004703367055035684,Artist & Artist
+Artist_Residency-(Spain),Artist_Project_publication_year_2011,0.0019413362493762344,Artist & Artist
+Artist_Residency-(Switzerland),Artist_Platform_membership_join_year_2010,0.0014747500773522654,Artist & Artist
+Artist_Residency-(Switzerland),Artist_Visual_distance_CH_Neighboring,0.002246428278590792,Artist & Artist
+Artist_Residency-(Taiwan Region),Artist_Platform_membership_join_year_2012,0.0026013348908726867,Artist & Artist
+Artist_Residency-(Taiwan Region),Artist_Project_publication_year_2013,0.0017038691818738242,Artist & Artist
+Artist_Residency-(Taiwan Region),Artist_Platform_membership_join_year_2010,0.0023309956816391485,Artist & Artist
+Artist_Residency-(Turkey),Artist_Platform_membership_join_year_2010,0.0020228815235256562,Artist & Artist
+Artist_Residency-(USA),Artist_Collaborator_count,0.0058718508617029335,Artist & Artist
+Artist_Residency-(USA),Artist_Topic_diversity,0.004766767474895089,Artist & Artist
+Artist_Residency-(USA),Artist_Platform_membership_join_year_2007,0.002921910645110871,Artist & Artist
+Artist_Residency-(Ukraine),Artist_Collaborator_count,0.0016670611022961235,Artist & Artist
+Artist_Residency-(Ukraine),Artist_Platform_membership_join_year_2010,0.0022056281154357545,Artist & Artist
+Artist_Residency-(United Arab Emirates),Artist_Platform_membership_join_year_2008,0.0010412382274756085,Artist & Artist
+Artist_Residency-(United Kingdom),Artist_Platform_membership_join_year_2009,0.005278913021549613,Artist & Artist
+Artist_Residency-(United Kingdom),Artist_Platform_membership_join_year_2010,0.007995228818834303,Artist & Artist
+Artist_Residency-(United Kingdom),Artist_Inter_project_publication_period,0.004862506758776912,Artist & Artist
+Artist_Residency-(United Kingdom),Artist_Topic_diversity,0.005866778283094901,Artist & Artist
+Artist_Residency-(United Kingdom),Artist_Platform_membership_join_year_2015,0.0020182718929559387,Artist & Artist
+Artist_Topic_diversity,Artist_Curation_status_of_the_last_project,0.0026680319927499833,Artist & Artist
+Artist_Visual_simillarity_latent_PCA_embeddings_Neighboring,Artist_Collaborator_count,0.008165923697335658,Artist & Artist
+Artist_Visual_simillarity_latent_PCA_embeddings_Neighboring,Artist_Inter_project_publication_period,0.010350825227040936,Artist & Artist
+Artwork_Assigned_creative_field_count,Artist_Platform_membership_join_year_2015,0.0016132938611389204,Artist & Artwork
+Artwork_Assigned_creative_field_count,Artist_Platform_membership_join_year_2013,0.0006963929129503,Artist & Artwork
+Artwork_Assigned_creative_field_count,Artist_Residency-(United Kingdom),0.0017840505828574324,Artist & Artwork
+Artwork_Assigned_creative_field_count,Artwork_Creative_fields-(Painting),0.004270832548372051,Artwork & Artwork
+Artwork_Assigned_creative_field_count,Artwork_Creative_fields-(Architecture),0.004226354324024104,Artwork & Artwork
+Artwork_Assigned_creative_field_count,Artwork_Visual_Features_latent_PCA_embeddings_dim-102,0.002213906495667217,Artwork & Artwork
+Artwork_Assigned_creative_field_count,Artwork_Visual_Features_latent_PCA_embeddings_dim-1,0.006448222829577671,Artwork & Artwork
+Artwork_Assigned_creative_field_count,Artwork_Visual_Features_value_Mean,0.005615008747909226,Artwork & Artwork
+Artwork_Assigned_creative_field_count,Artist_Career_timeline,0.00578367002845597,Artist & Artwork
+Artwork_Assigned_creative_field_count,Artwork_Creative_fields-(Illustration),0.0096601340108984,Artwork & Artwork
+Artwork_Contributor_count,Artwork_Visual_Features_latent_PCA_embeddings_dim-70,0.0065695010649407925,Artwork & Artwork
+Artwork_Contributor_count,Artwork_Visual_Features_latent_PCA_embeddings_dim-112,0.0037506505883907752,Artwork & Artwork
+Artwork_Contributor_count,Artwork_Creative_fields-(Advertising),0.0007515553852215252,Artwork & Artwork
+Artwork_Contributor_count,Artwork_Creative_fields-(Drawing),0.0009733085522580646,Artwork & Artwork
+Artwork_Contributor_count,Artwork_Creative_fields-(Photography),0.00490470762006529,Artwork & Artwork
+Artwork_Contributor_count,Artist_Residency-(Belgium),0.0006353123592581361,Artist & Artwork
+Artwork_Contributor_count,Artist_Residency-(France),0.003845766673879554,Artist & Artwork
+Artwork_Contributor_count,Artist_Residency-(Finland),0.0003962560009672525,Artist & Artwork
+Artwork_Contributor_count,Artist_Residency-(Italy),0.007503914211487922,Artist & Artwork
+Artwork_Contributor_count,Artist_Residency-(Mexico),0.001628653495334668,Artist & Artwork
+Artwork_Contributor_count,Artist_Residency-(USA),0.0006551909675543716,Artist & Artwork
+Artwork_Contributor_count,Artist_Platform_membership_join_year_2013,0.003824374504213936,Artist & Artwork
+Artwork_Contributor_count,Artist_Curation_status_of_the_last_project,0.002500535883863902,Artist & Artwork
+Artwork_Contributor_count,Artist_Inter_project_publication_period,0.005814277670555877,Artist & Artwork
+Artwork_Contributor_count,Artist_Visual_simillarity_latent_PCA_embeddings_Neighboring,0.006665209953654245,Artist & Artwork
+Artwork_Creative_fields-(Advertising),Artwork_Creative_fields-(DigitalArt),0.0057461086425968765,Artwork & Artwork
+Artwork_Creative_fields-(Advertising),Artist_Residency-(Poland),0.0023338326993615106,Artist & Artwork
+Artwork_Creative_fields-(Advertising),Artist_Residency-(Mexico),0.0008595059051514012,Artist & Artwork
+Artwork_Creative_fields-(Advertising),Artist_Residency-(Colombia),0.0003368610653291571,Artist & Artwork
+Artwork_Creative_fields-(Animation),Artist_Topic_diversity,0.0012491394801601742,Artist & Artwork
+Artwork_Creative_fields-(Architecture),Artist_Residency-(Spain),0.0022181042620994192,Artist & Artwork
+Artwork_Creative_fields-(Architecture),Artist_Visual_distance_HSV_Neighboring,0.0013083248119086428,Artist & Artwork
+Artwork_Creative_fields-(Architecture),Artist_Topic_diversity,0.0021145636077461163,Artist & Artwork
+Artwork_Creative_fields-(Architecture),Artist_Residency-(Germany),0.0006121179155333798,Artist & Artwork
+Artwork_Creative_fields-(Architecture),Artist_Inter_project_publication_period,0.002401412305077754,Artist & Artwork
+Artwork_Creative_fields-(Architecture),Artist_Platform_membership_join_year_2011,0.0023292580918600793,Artist & Artwork
+Artwork_Creative_fields-(ArtDirection),Artist_Residency-(Poland),0.002341401944318622,Artist & Artwork
+Artwork_Creative_fields-(Branding),Artist_Residency-(France),0.0014832801307127963,Artist & Artwork
+Artwork_Creative_fields-(Branding),Artist_Residency-(Mexico),0.0009000248758978309,Artist & Artwork
+Artwork_Creative_fields-(Branding),Artist_Residency-(South Africa),0.0015506911355383716,Artist & Artwork
+Artwork_Creative_fields-(Branding),Artist_Platform_membership_join_year_2008,0.0020341360553452767,Artist & Artwork
+Artwork_Creative_fields-(Branding),Artist_Residency-(Finland),0.0003520299485092415,Artist & Artwork
+Artwork_Creative_fields-(Branding),Artist_Residency-(Israel),0.0006941715063711631,Artist & Artwork
+Artwork_Creative_fields-(CharacterDesign),Artist_Residency-(Austria),0.0017435579941637515,Artist & Artwork
+Artwork_Creative_fields-(CharacterDesign),Artist_Residency-(United Kingdom),0.004860070737976604,Artist & Artwork
+Artwork_Creative_fields-(Crafts),Artist_Residency-(Australia),0.001010757731932953,Artist & Artwork
+Artwork_Creative_fields-(Crafts),Artist_Residency-(Belgium),0.000997302711248907,Artist & Artwork
+Artwork_Creative_fields-(Crafts),Artist_Residency-(Taiwan Region),0.00030518905691175757,Artist & Artwork
+Artwork_Creative_fields-(CreativeDirection),Artist_Residency-(South Africa),0.001076686364582241,Artist & Artwork
+Artwork_Creative_fields-(DigitalArt),Artist_Residency-(France),0.002332576603350611,Artist & Artwork
+Artwork_Creative_fields-(DigitalArt),Artist_Residency-(South Africa),0.003569056150388614,Artist & Artwork
+Artwork_Creative_fields-(Drawing),Artist_Platform_membership_join_year_2013,0.0026739824680878897,Artist & Artwork
+Artwork_Creative_fields-(Drawing),Artist_Residency-(Russian Federation),0.002715007018433946,Artist & Artwork
+Artwork_Creative_fields-(Fashion),Artist_Residency-(Mexico),0.0013767887064658328,Artist & Artwork
+Artwork_Creative_fields-(Fashion),Artist_Residency-(New Zealand),0.0014488591723020722,Artist & Artwork
+Artwork_Creative_fields-(FashionStyling),Artist_Topic_diversity,0.0011681083459928077,Artist & Artwork
+Artwork_Creative_fields-(FashionStyling),Artist_Residency-(Spain),0.0007526855250346524,Artist & Artwork
+Artwork_Creative_fields-(FashionStyling),Artist_Residency-(South Africa),0.00043053630562505106,Artist & Artwork
+Artwork_Creative_fields-(FashionStyling),Artist_Residency-(Russian Federation),0.0012488240740055414,Artist & Artwork
+Artwork_Creative_fields-(FashionStyling),Artist_Platform_membership_join_year_2012,0.001200083600574236,Artist & Artwork
+Artwork_Creative_fields-(Graffiti),Artist_Residency-(Netherlands),0.000816502350128761,Artist & Artwork
+Artwork_Creative_fields-(Graffiti),Artist_Platform_membership_join_year_2010,0.0003506654586689056,Artist & Artwork
+Artwork_Creative_fields-(GraphicDesign),Artist_Residency-(United Kingdom),0.00675430111026441,Artist & Artwork
+Artwork_Creative_fields-(Illustration),Artist_Platform_membership_join_year_2013,0.0006815275948388767,Artist & Artwork
+Artwork_Creative_fields-(Illustration),Artist_Residency-(Netherlands),0.0004347342571874574,Artist & Artwork
+Artwork_Creative_fields-(Illustration),Artist_Residency-(New Zealand),0.0004287247560982908,Artist & Artwork
+Artwork_Creative_fields-(Illustration),Artist_Residency-(South Africa),0.0025960458914324885,Artist & Artwork
+Artwork_Creative_fields-(Illustration),Artist_Residency-(USA),0.011142154999563768,Artist & Artwork
+Artwork_Creative_fields-(Illustration),Artist_Platform_membership_join_year_2008,0.004198800768687532,Artist & Artwork
+Artwork_Creative_fields-(Illustration),Artist_Platform_membership_join_year_2009,0.005616075722167944,Artist & Artwork
+Artwork_Creative_fields-(Illustration),Artist_Visual_distance_HSV_Neighboring,0.008598929719593447,Artist & Artwork
+Artwork_Creative_fields-(Illustration),Artist_Residency-(Germany),0.0023827666703623235,Artist & Artwork
+Artwork_Creative_fields-(InteractionDesign),Artist_Residency-(USA),0.0011404971942463394,Artist & Artwork
+Artwork_Creative_fields-(InteriorDesign),Artist_Residency-(Germany),0.0008858809750815994,Artist & Artwork
+Artwork_Creative_fields-(MotionGraphics),Artist_Project_publication_year_2013,0.0026567016535203975,Artist & Artwork
+Artwork_Creative_fields-(MotionGraphics),Artist_Platform_membership_join_year_2011,0.0037829023512246113,Artist & Artwork
+Artwork_Creative_fields-(MotionGraphics),Artist_Residency-(France),0.0017204395493028361,Artist & Artwork
+Artwork_Creative_fields-(MotionGraphics),Artist_Platform_membership_join_year_2007,0.001233602334522016,Artist & Artwork
+Artwork_Creative_fields-(Packaging),Artist_Residency-(Bulgaria),0.0003237823707115038,Artist & Artwork
+Artwork_Creative_fields-(Painting),Artist_Residency-(Belgium),0.0017553442674399249,Artist & Artwork
+Artwork_Creative_fields-(Photography),Artist_Residency-(Greece),0.0010017435846585876,Artist & Artwork
+Artwork_Creative_fields-(Photography),Artist_Residency-(Malaysia),0.0005446868498610955,Artist & Artwork
+Artwork_Creative_fields-(Photography),Artist_Residency-(Mexico),0.0007367901971240764,Artist & Artwork
+Artwork_Creative_fields-(Photography),Artist_Residency-(Russian Federation),0.0025788716898248686,Artist & Artwork
+Artwork_Creative_fields-(Photography),Artist_Residency-(USA),0.003069629026197841,Artist & Artwork
+Artwork_Creative_fields-(Photography),Artist_Topic_diversity,0.0057455301263289816,Artist & Artwork
+Artwork_Creative_fields-(StreetArt),Artist_Platform_membership_join_year_2010,0.0011041163343180858,Artist & Artwork
+Artwork_Creative_fields-(Typography),Artist_Residency-(United Kingdom),0.0043103618500854035,Artist & Artwork
+Artwork_Creative_fields-(Typography),Artist_Residency-(Finland),0.0004380627912931523,Artist & Artwork
+Artwork_Creative_fields-(Typography),Artist_Topic_diversity,0.001465384577339794,Artist & Artwork
+Artwork_Creative_fields-(Typography),Artist_Visual_simillarity_latent_PCA_embeddings_Neighboring,0.0038351718723280193,Artist & Artwork
+Artwork_Creative_fields-(UI/UX),Artist_Residency-(USA),0.0015295467981921826,Artist & Artwork
+Artwork_Image_sample_count,Artist_Residency-(United Kingdom),0.0019300207020779368,Artist & Artwork
+Artwork_Image_sample_count,Artist_Platform_membership_join_year_2008,0.003889192587109265,Artist & Artwork
+Artwork_Image_sample_count,Artist_Residency-(Netherlands),0.0033318933883672848,Artist & Artwork
+Artwork_Image_sample_count,Artist_Residency-(Germany),0.002095378628677378,Artist & Artwork
+Artwork_Image_sample_count,Artist_Residency-(Czech Republic),0.0010131614926386368,Artist & Artwork
+Artwork_Image_sample_count,Artist_Residency-(France),0.003242486083900934,Artist & Artwork
+Artwork_Image_sample_count,Artwork_Creative_fields-(Branding),0.005440798187599836,Artwork & Artwork
+Artwork_Image_sample_count,Artwork_Creative_fields-(ArtDirection),0.006370283453719181,Artwork & Artwork
+Artwork_Image_sample_count,Artwork_Creative_fields-(Animation),0.0056994706060645335,Artwork & Artwork
+Artwork_Image_sample_count,Artwork_Visual_Features_latent_PCA_embeddings_dim-106,0.008473307522412902,Artwork & Artwork
+Artwork_Image_sample_count,Artwork_Contributor_count,0.007508911163073259,Artwork & Artwork
+Artwork_Image_sample_count,Artwork_Creative_fields-(Illustration),0.0028614539381166056,Artwork & Artwork
+Artwork_Visual_Features_Complexity,Artwork_Visual_Features_latent_PCA_embeddings_dim-103,0.010495399699708953,Artwork & Artwork
+Artwork_Visual_Features_blue_Mean,Artwork_Visual_Features_latent_PCA_embeddings_dim-103,0.009393053643719272,Artwork & Artwork
+Artwork_Visual_Features_blue_Mean,Artwork_Creative_fields-(ArtDirection),0.0022615650885201588,Artwork & Artwork
+Artwork_Visual_Features_blue_Mean,Artist_Residency-(France),0.001795263542442066,Artist & Artwork
+Artwork_Visual_Features_blue_Mean,Artist_Residency-(Netherlands),0.0011176660806668378,Artist & Artwork
+Artwork_Visual_Features_blue_Mean,Artist_Platform_membership_join_year_2011,0.003933913676403203,Artist & Artwork
+Artwork_Visual_Features_blue_Median,Artist_Residency-(Netherlands),0.0007796199291586347,Artist & Artwork
+Artwork_Visual_Features_blue_Median,Artist_Residency-(New Zealand),0.0006427660715607006,Artist & Artwork
+Artwork_Visual_Features_blue_Median,Artist_Residency-(France),0.000986900914429277,Artist & Artwork
+Artwork_Visual_Features_blue_Median,Artist_Platform_membership_join_year_2011,0.001407654673651397,Artist & Artwork
+Artwork_Visual_Features_blue_Median,Artwork_Creative_fields-(ArtDirection),0.001462815138041561,Artwork & Artwork
+Artwork_Visual_Features_blue_Median,Artwork_Visual_Features_latent_PCA_embeddings_dim-103,0.005891860077990867,Artwork & Artwork
+Artwork_Visual_Features_blue_Standard_deviation,Artist_Platform_membership_join_year_2010,0.0040602831011946625,Artist & Artwork
+Artwork_Visual_Features_blue_Standard_deviation,Artist_Residency-(United Kingdom),0.004297723792143783,Artist & Artwork
+Artwork_Visual_Features_green_Mean,Artist_Platform_membership_join_year_2011,0.003286262265982286,Artist & Artwork
+Artwork_Visual_Features_green_Mean,Artist_Residency-(Taiwan Region),0.007030465068411437,Artist & Artwork
+Artwork_Visual_Features_green_Mean,Artist_Residency-(New Zealand),0.002279397234297872,Artist & Artwork
+Artwork_Visual_Features_green_Mean,Artist_Residency-(France),0.00236399487422923,Artist & Artwork
+Artwork_Visual_Features_green_Mean,Artwork_Creative_fields-(ArtDirection),0.003887253218970384,Artwork & Artwork
+Artwork_Visual_Features_green_Mean,Artwork_Visual_Features_latent_PCA_embeddings_dim-103,0.020217254097875233,Artwork & Artwork
+Artwork_Visual_Features_green_Mean,Artist_Residency-(Netherlands),0.0028533861124992437,Artist & Artwork
+Artwork_Visual_Features_green_Median,Artist_Platform_membership_join_year_2011,0.0018431705819449084,Artist & Artwork
+Artwork_Visual_Features_green_Median,Artwork_Visual_Features_latent_PCA_embeddings_dim-103,0.004990275730787368,Artwork & Artwork
+Artwork_Visual_Features_green_Median,Artist_Residency-(New Zealand),0.0016816226011867102,Artist & Artwork
+Artwork_Visual_Features_green_Median,Artist_Residency-(Netherlands),0.0026813219910763473,Artist & Artwork
+Artwork_Visual_Features_green_Median,Artist_Residency-(France),0.002787624617414533,Artist & Artwork
+Artwork_Visual_Features_green_Median,Artwork_Creative_fields-(ArtDirection),0.0021357202136491485,Artwork & Artwork
+Artwork_Visual_Features_green_Standard_deviation,Artist_Platform_membership_join_year_2010,0.004143743866123454,Artist & Artwork
+Artwork_Visual_Features_hue_Mean-0,Artist_Residency-(France),0.0009253717097594283,Artist & Artwork
+Artwork_Visual_Features_hue_Median-0,Artist_Residency-(France),0.0012705252361732494,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-1,Artist_Residency-(New Zealand),0.0011050197531199746,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-1,Artist_Residency-(Israel),0.0019717861777857498,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-1,Artist_Residency-(Ireland),0.0033878490137399324,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-1,Artist_Residency-(Finland),0.0009285986040984062,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-1,Artist_Residency-(Belgium),0.003551226455395951,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-101,Artist_Collaborator_count,0.007199529412614184,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-101,Artist_Residency-(Mexico),0.001248702388763071,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-101,Artist_Residency-(China),0.004167705804850993,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-101,Artist_Residency-(Israel),0.0007306835430486474,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-101,Artist_Residency-(Bulgaria),0.0008373162636461341,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-101,Artist_Visual_simillarity_latent_PCA_embeddings_Neighboring,0.006800013457068179,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-101,Artwork_Creative_fields-(ArtDirection),0.003272276821847027,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-101,Artwork_Visual_Features_latent_PCA_embeddings_dim-111,0.007625500628804277,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-101,Artwork_Visual_Features_latent_PCA_embeddings_dim-107,0.008337372847968347,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-101,Artist_Residency-(Finland),0.00033916571317272703,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-101,Artwork_Creative_fields-(Photography),0.0023021333145753367,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-101,Artist_Residency-(Denmark),0.0037916054830626662,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-102,Artist_Residency-(South Africa),0.0013541915118260384,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-102,Artwork_Visual_Features_latent_PCA_embeddings_dim-132,0.007527228141838906,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-102,Artist_Residency-(Belgium),0.0033467819210002687,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-102,Artist_Residency-(Germany),0.0038373596341112572,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-102,Artist_Residency-(Netherlands),0.0030443928588569638,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-102,Artist_Residency-(New Zealand),0.0009003542447185902,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-102,Artist_Residency-(United Kingdom),0.0013208932804753713,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-102,Artist_Platform_membership_join_year_2013,0.005571095603521345,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-103,Artist_Inter_project_publication_period,0.0058955695367194465,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-103,Artist_Residency-(USA),0.006706520383373318,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-103,Artist_Residency-(Spain),0.0023902559911789674,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-103,Artist_Residency-(Portugal),0.002696355018321462,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-103,Artist_Residency-(Mexico),0.0006653491536106834,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-103,Artist_Residency-(Israel),0.0011167193569883859,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-103,Artist_Residency-(France),0.002347256596036308,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-103,Artist_Residency-(Finland),0.0002843275392258047,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-103,Artwork_Visual_Features_latent_PCA_embeddings_dim-191,0.009750642139063306,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-103,Artwork_Visual_Features_latent_PCA_embeddings_dim-107,0.007056722240257412,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-103,Artwork_Visual_Features_latent_PCA_embeddings_dim-106,0.0081399565077011,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-103,Artist_Residency-(Germany),0.0030511279949184626,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-104,Artist_Residency-(Japan),0.002770401466654395,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-104,Artist_Platform_membership_join_year_2008,0.0022935561858035227,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-104,Artist_Residency-(USA),0.004296331451678243,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-104,Artist_Residency-(France),0.0019470582028307737,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-104,Artist_Residency-(Russian Federation),0.001068329619263784,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-104,Artist_Residency-(Bulgaria),0.0005585213946782296,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-104,Artist_Residency-(Belgium),0.002198520854487544,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-104,Artwork_Visual_Features_latent_PCA_embeddings_dim-136,0.012648129289135982,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-104,Artist_Residency-(Finland),0.0005256472031721036,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-105,Artwork_Visual_Features_latent_PCA_embeddings_dim-114,0.011178924195678584,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-105,Artist_Residency-(Bulgaria),0.0016160824345394108,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-105,Artist_Residency-(Finland),0.0009393564024804671,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-106,Artwork_Visual_Features_latent_PCA_embeddings_dim-122,0.009705091188108752,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-106,Artist_Residency-(Finland),0.0013241862216393212,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-106,Artist_Residency-(France),0.002776589005342155,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-106,Artist_Residency-(United Kingdom),0.0032540876744981957,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-106,Artist_Platform_membership_join_year_2011,0.004244023308806269,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-107,Artist_Topic_diversity,0.006076013539068153,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-107,Artist_Residency-(Spain),0.0022592059666393877,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-107,Artist_Residency-(New Zealand),0.0006807354479195562,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-107,Artist_Residency-(Mexico),0.0028448375323384322,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-108,Artwork_Visual_Features_latent_PCA_embeddings_dim-128,0.009931116465123496,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-108,Artist_Residency-(Belgium),0.0014217255042603578,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-109,Artwork_Creative_fields-(GraphicDesign),0.011211792256468324,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-109,Artist_Residency-(Czech Republic),0.0008098334864555141,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-109,Artist_Residency-(Netherlands),0.003566540285252338,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-109,Artist_Platform_membership_join_year_2009,0.004262449066772946,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-110,Artist_Residency-(Finland),0.0008963472259196648,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-110,Artwork_Creative_fields-(Branding),0.004890555939331896,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-110,Artist_Platform_membership_join_year_2017,0.0031032136726211715,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-110,Artist_Residency-(Spain),0.006548894875140803,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-111,Artist_Residency-(Israel),0.0011784053859450324,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-111,Artist_Residency-(Colombia),0.0011711285014233074,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-113,Artist_Residency-(Finland),0.002015379839141531,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-114,Artist_Residency-(Finland),0.0016934182184825555,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-114,Artist_Residency-(France),0.00279027580992841,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-115,Artist_Residency-(Finland),0.0075710261846424105,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-116,Artist_Platform_membership_join_year_2018,0.0025061393657311013,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-120,Artist_Residency-(Finland),0.001983663729933085,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-120,Artist_Residency-(United Kingdom),0.007076078769111599,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-121,Artist_Residency-(Bulgaria),0.0018063066572831413,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-121,Artist_Residency-(Finland),0.0016894893127412038,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-122,Artist_Residency-(Bulgaria),0.0007406128204477983,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-124,Artwork_Creative_fields-(Branding),0.0066162815552139745,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-124,Artist_Residency-(Czech Republic),0.0007033630935329439,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-124,Artist_Residency-(Mexico),0.0007357488662267582,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-124,Artist_Residency-(New Zealand),0.0013934606876006108,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-126,Artist_Platform_membership_join_year_2018,0.005022493448726724,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-128,Artist_Residency-(Bulgaria),0.0013145314441388256,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-132,Artwork_Creative_fields-(Photography),0.0017579701389595591,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-136,Artist_Residency-(Finland),0.0008295077167911486,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-138,Artist_Residency-(Finland),0.002867266691130739,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-139,Artist_Residency-(Czech Republic),0.0010923597102685308,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-139,Artist_Residency-(Bulgaria),0.0010193850710637777,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-140,Artist_Residency-(Finland),0.0019349273847137677,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-142,Artist_Residency-(Czech Republic),0.002012149398941444,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-142,Artwork_Creative_fields-(StreetArt),0.0013698214405814468,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-143,Artist_Residency-(France),0.0037931246443433683,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-143,Artwork_Creative_fields-(StreetArt),0.0034387742376564027,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-144,Artist_Residency-(France),0.004489749128000155,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-147,Artist_Residency-(Czech Republic),0.0013232417352209843,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-147,Artist_Residency-(Finland),0.0013834891991863125,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-152,Artist_Residency-(Bulgaria),0.001895536868163773,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-155,Artist_Residency-(Czech Republic),0.0038492398613005742,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-164,Artist_Residency-(Czech Republic),0.0017328569257846003,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-165,Artist_Residency-(Finland),0.004350675229902818,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-166,Artwork_Creative_fields-(Photography),0.003989439823891532,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-174,Artist_Residency-(Finland),0.002543104322290375,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-175,Artist_Residency-(Bulgaria),0.003459537416289579,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-179,Artist_Platform_membership_join_year_2018,0.0016695536405063375,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-18,Artist_Residency-(Finland),0.0013213634499482285,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-180,Artist_Residency-(Finland),0.0016986372975856454,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-183,Artwork_Creative_fields-(Photography),0.008025075381848061,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-186,Artist_Residency-(Finland),0.002332439756705404,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-191,Artist_Residency-(United Kingdom),0.0055247598260608445,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-192,Artist_Residency-(Finland),0.0018952709873024031,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-2,Artist_Residency-(Finland),0.0008960103636015027,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-3,Artist_Residency-(Czech Republic),0.000941854282846727,Artist & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-54,Artwork_Creative_fields-(InteriorDesign),0.0020693042592556184,Artwork & Artwork
+Artwork_Visual_Features_latent_PCA_embeddings_dim-9,Artist_Residency-(Finland),0.001522606220754565,Artist & Artwork
+Artwork_Visual_Features_red_Mean,Artwork_Creative_fields-(ArtDirection),0.0014793178760888898,Artwork & Artwork
+Artwork_Visual_Features_red_Mean,Artist_Residency-(France),0.0017144189807071688,Artist & Artwork
+Artwork_Visual_Features_red_Mean,Artist_Residency-(Netherlands),0.0012682838675000417,Artist & Artwork
+Artwork_Visual_Features_red_Median,Artist_Residency-(France),0.0009112893324365397,Artist & Artwork
+Artwork_Visual_Features_red_Median,Artwork_Creative_fields-(ArtDirection),0.0008367018823144185,Artwork & Artwork
+Artwork_Visual_Features_red_Median,Artist_Residency-(Netherlands),0.0008178594665262918,Artist & Artwork
+Artwork_Visual_Features_red_Median,Artwork_Visual_Features_latent_PCA_embeddings_dim-103,0.008176497664115883,Artwork & Artwork
+Artwork_Visual_Features_red_Standard_deviation,Artwork_Visual_Features_latent_PCA_embeddings_dim-104,0.01783973268195269,Artwork & Artwork
+Artwork_Visual_Features_saturation_Mean,Artwork_Creative_fields-(Photography),0.0037059000045722985,Artwork & Artwork
+Artwork_Visual_Features_saturation_Mean,Artist_Residency-(France),0.0014380347816110284,Artist & Artwork
+Artwork_Visual_Features_saturation_Mean,Artist_Platform_membership_join_year_2011,0.0017430448379108143,Artist & Artwork
+Artwork_Visual_Features_saturation_Mean,Artist_Platform_membership_join_year_2016,0.0021764137314449076,Artist & Artwork
+Artwork_Visual_Features_saturation_Median,Artwork_Visual_Features_latent_PCA_embeddings_dim-163,0.014146816032857605,Artwork & Artwork
+Artwork_Visual_Features_saturation_Median,Artwork_Creative_fields-(Photography),0.0032827863514465947,Artwork & Artwork
+Artwork_Visual_Features_saturation_Median,Artist_Platform_membership_join_year_2011,0.004199186040349684,Artist & Artwork
+Artwork_Visual_Features_saturation_Median,Artist_Residency-(France),0.0020876001731865612,Artist & Artwork
+Artwork_Visual_Features_saturation_Standard_deviation,Artist_Platform_membership_join_year_2011,0.0034472855186277076,Artist & Artwork
+Artwork_Visual_Features_saturation_Standard_deviation,Artist_Residency-(France),0.0018689572165209141,Artist & Artwork
+Artwork_Visual_Features_value_Mean,Artist_Platform_membership_join_year_2011,0.0014122355184644796,Artist & Artwork
+Artwork_Visual_Features_value_Mean,Artist_Residency-(United Kingdom),0.0038367840169474987,Artist & Artwork
+Artwork_Visual_Features_value_Mean,Artist_Residency-(USA),0.0027768255281344777,Artist & Artwork
+Artwork_Visual_Features_value_Mean,Artist_Residency-(New Zealand),0.0014633190091564794,Artist & Artwork
+Artwork_Visual_Features_value_Mean,Artist_Residency-(Netherlands),0.001292238909022398,Artist & Artwork
+Artwork_Visual_Features_value_Mean,Artist_Residency-(France),0.0028405341392939093,Artist & Artwork
+Artwork_Visual_Features_value_Mean,Artwork_Creative_fields-(ArtDirection),0.003015084610643128,Artwork & Artwork
+Artwork_Visual_Features_value_Median,Artist_Residency-(France),0.0013250063313825556,Artist & Artwork
+Artwork_Visual_Features_value_Median,Artist_Residency-(Netherlands),0.0014280348574022058,Artist & Artwork
+Artwork_Visual_Features_value_Median,Artist_Residency-(New Zealand),0.0008896118836068515,Artist & Artwork
+Artwork_Visual_Features_value_Median,Artist_Residency-(USA),0.0022693625428199422,Artist & Artwork
+Artwork_Visual_Features_value_Median,Artist_Residency-(United Kingdom),0.0026215862264427816,Artist & Artwork
+Artwork_Visual_Features_value_Median,Artist_Platform_membership_join_year_2011,0.0012674700102160291,Artist & Artwork
+Artwork_Visual_Features_value_Median,Artwork_Visual_Features_latent_PCA_embeddings_dim-103,0.0038534809012566148,Artwork & Artwork
+Artwork_Visual_Features_value_Standard_deviation,Artist_Residency-(Netherlands),0.0026403218731485285,Artist & Artwork
+Artwork_Visual_Features_value_Standard_deviation,Artwork_Creative_fields-(Illustration),0.008391145401597182,Artwork & Artwork
+Data_acquisition_to_project_publication_interval,Artist_Collaborator_count,0.010393768516606991,
+Data_acquisition_to_project_publication_interval,Artwork_Visual_Features_latent_PCA_embeddings_dim-2,0.014724509571909345,
+Data_acquisition_to_project_publication_interval,Artwork_Visual_Features_latent_PCA_embeddings_dim-103,0.009566337005696637,
+Data_acquisition_to_project_publication_interval,Artwork_Visual_Features_latent_PCA_embeddings_dim-105,0.011101514697416442,
+Data_acquisition_to_project_publication_interval,Artwork_Creative_fields-(MotionGraphics),0.004665132366023806,
+Data_acquisition_to_project_publication_interval,Artwork_Creative_fields-(Typography),0.004440595835020068,
+Data_acquisition_to_project_publication_interval,Artist_Residency-(Colombia),0.00116830688559703,
+Data_acquisition_to_project_publication_interval,Artist_Residency-(Finland),0.00048647112669131216,
+Data_acquisition_to_project_publication_interval,Artist_Residency-(Poland),0.002907076768264314,
+Data_acquisition_to_project_publication_interval,Artist_Residency-(Spain),0.004912935207605155,
+Data_acquisition_to_project_publication_interval,Artist_Residency-(Taiwan Region),0.00474492569954114,
+Data_acquisition_to_project_publication_interval,Artist_Residency-(United Arab Emirates),0.0006005858060817981,
+Data_acquisition_to_project_publication_interval,Artist_Residency-(United Kingdom),0.011137659944068125,
+Data_acquisition_to_project_publication_interval,Artist_Visual_distance_RGB_Neighboring,0.011687412554483412,
+Data_acquisition_to_project_publication_interval,Artist_Residency-(Netherlands),0.0018538596215587147,
+Data_acquisition_to_project_publication_interval,Artwork_Contributor_count,0.011289082106833824,
