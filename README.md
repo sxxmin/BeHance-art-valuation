@@ -80,7 +80,6 @@ The script provides several command-line options to configure the model training
 
 * `--model`  
   - Type: `str`  
-  - Default: `'EBM'`  
   - Description: Specifies the model to use for prediction. Options include:  
     - `LR` : Linear Regression  
     - `NB` : Negative Binomial  
@@ -89,14 +88,12 @@ The script provides several command-line options to configure the model training
 
 * `--target`  
   - Type: `str`  
-  - Default: `'view'`  
   - Description: Defines the target variable to predict. Options include:  
     - `appreciation` : Measures user appreciation  
     - `view` : Number of views  
 
 * `--engaging_group`  
   - Type: `str`  
-  - Default: `'All'`  
   - Description: Specifies which group to include in the analysis. Options:  
     - `Artist` : Only artist factors as feature  
     - `Artwork` : Only artwork factors as feature  
@@ -104,12 +101,10 @@ The script provides several command-line options to configure the model training
 
 * `--using_c_variable`  
   - Type: `bool` (`str2bool`)  
-  - Default: `True`  
   - Description: Determines whether to include the control variable in the model.
 
 * `--window_opt`  
   - Type: `str`  
-  - Default: `''`  
   - Description: Specifies the size of the time window for feature aggregation. Options:  
     - `'3'` : 3-unit window  
     - `'6'` : 6-unit window  
