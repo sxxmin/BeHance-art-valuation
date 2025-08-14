@@ -3,8 +3,9 @@ numpy
 pandas
 statsmodels
 str2bool
+interpret
 joblib
 scikit-learn
 scipy
 tqdm
-
+xgboost
