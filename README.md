@@ -24,15 +24,21 @@ Seunghwan Kim<sup>1+</sup>, Soomin Lee<sup>2+</sup>, Byunghwee Lee<sup>3*</sup>,
 
 ## Installation
 
-Installation using [Miniconda](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/index.html):
+You can set up this project using **Anaconda Navigator** without directly using the command line.
 
-```bash
-git clone https://github.com/sxxmin/BeHance-art-valuation.git
-cd BeHance-art-valuation
-conda create -y --name behance python=3.6.9
-conda activate behance
-pip install -r requirements.txt
-```
+1. **Open Anaconda Navigator**.  
+2. Go to the **Environments** tab and click **Create** to make a new environment named `behance` with **Python 3.6.9**.  
+3. Once created, select the `behance` environment and click **Open Terminal**.  
+4. In the terminal, run:  
+   ```bash
+   git clone https://github.com/sxxmin/BeHance-art-valuation.git
+   cd BeHance-art-valuation
+   pip install -r requirements.txt
+   ```
+5. To work with the project in a notebook, open **JupyterLab** from Anaconda Navigator (make sure the `behance` environment is selected).
+6. You can run the code either:
+  **In a Terminal** inside JupyterLab, or
+  **In a Notebook** by creating a new Python 3 notebook linked to the `behance` environment.
 
 
 
@@ -50,21 +56,18 @@ pip install -r requirements.txt
 
 
 
-* **Quickstart**
+## Quickstart
 
-  * In terminal, run:
-  ```bash
-  jupyter notebook
-  ```
-  * Select the `behance` kernel in Jupyter Notebook.
-  * Before opening 'Main_result.ipynb', you should first run the training script in the terminal:
-  ```bash
-  python Trainer.py --model EBM --target view --engaging_group Artist --using_c_variable True
-  ```
-  - This command runs the Explainable Boosting Machine (`EBM`) model to predict the `view` target variable as valuation using only the `Artist` group and including the control variable.  
-  - For detailed descriptions of all available arguments, please refer to the **Command-line Arguments** section below.
+You can run the project directly from **JupyterLab** (via Anaconda Navigator) or from the **Terminal** in the `behance` environment.
 
-
+1. **Open JupyterLab** from Anaconda Navigator (with the `behance` environment selected).  
+2. If you want to use the notebook interface, create or open a notebook and set the kernel to **`behance`**.  
+3. Before opening `Main_result.ipynb`, you should first run the training script in the **Terminal** (either from Anaconda Navigator or inside JupyterLab):  
+   ```bash
+   python Trainer.py --model EBM --target view --engaging_group Artist --using_c_variable True
+   ```
+4. This command runs the **Explainable Boosting Machine (EBM)** model to predict the **view** target variable as valuation using only the **Artist** group and including the control variable.
+5. For detailed descriptions of all available arguments, see the **Command-line Arguments section** below.
 
 * **Hardware requirements**
   * A CPU is sufficient for training.
