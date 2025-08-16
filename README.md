@@ -18,7 +18,7 @@ Seunghwan Kim<sup>1+</sup>, Soomin Lee<sup>2+</sup>, Byunghwee Lee<sup>3*</sup>,
 ## Introduction
  - This repository provides the source code necessary for reproducing the results presented in the paper.
  - The core implementation of experimental results is found in **`src/Main_results.ipynb`**.
- - The original data was collected from the Behance platform; however, due to copyright concerns, only the preprocessed data required for modeling is provided.
+ - The original data was collected from the Behance platform; however, due to copyright concerns, the preprocessed data required for modeling is provided.
 
 
 
@@ -121,7 +121,7 @@ To reproduce the results, you must concatenate these files into a single variabl
   - The pre-trained model weights (`.models` files) are not included in the repository due to size constraints.  
   - These files will be generated and saved after training is completed.  
   - All related procedures, including dataset concatenation and model saving, are implemented in `Trainer.py`.  
-
+  - In `Main_results.ipynb`, the variable `Data_acquisition_to_project_publication_interval` is used as a control variable. This feature does not belong to either the artist or artwork groups at Figure. 2. While it is transparently provided in the reproduction materials, it was intentionally omitted from the published paper as it does not align with the paper’s primary research objectives.
 
 
     
