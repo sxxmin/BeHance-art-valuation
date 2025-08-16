@@ -109,3 +109,19 @@ The script provides several command-line options to configure the model training
     - `'3'` : 3-unit window  
     - `'6'` : 6-unit window  
     - `''` (empty string) : Default window of 9 units
+
+
+
+## Additional Notes on Data and Model Files
+
+The provided dataset is split into 10 separate files due to size limitations.
+To reproduce the results, you must concatenate these files into a single variable table before use.
+
+* Please note:  
+  - The pre-trained model weights (`.models` files) are not included in the repository due to size constraints.  
+  - These files will be generated and saved after training is completed.  
+  - All related procedures, including dataset concatenation and model saving, are implemented in `Trainer.py`.  
+
+
+
+    
