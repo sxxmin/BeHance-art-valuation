@@ -7,9 +7,9 @@ This repository contains the source code and dataset used in the study:
 **Authors**:  
 Seunghwan Kim<sup>1+</sup>, Soomin Lee<sup>2+</sup>, Byunghwee Lee<sup>3*</sup>, Wonjae Lee<sup>1*</sup>  
 
-<sup>1</sup> <sub>Graduate School of Culture Technology, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea</sub>  
-<sup>2</sup> <sub>Department of Computer Science and Engineering, Chungnam National University, Daejeon, Republic of Korea</sub>  
-<sup>3</sup> <sub>Center for Complex Networks and Systems Research, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN, USA</sub>  
+<sup>1</sup> <sub>Graduate School of Culture Technology, Korea Advanced Institute of Science and Technology, Daejeon 34141, Republic of Korea</sub>  
+<sup>2</sup> <sub>Department of Computer Science and Engineering, Chungnam National University, Daejeon 34134, Republic of Korea</sub>  
+<sup>3</sup> <sub>Center for Complex Networks and Systems Research, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN 47408, USA</sub>  
 
 <sup>+</sup> <sub>S.K. and S.L. contributed equally to this work.</sub>  <sup>*</sup> <sub>Corresponding author.</sub>  
 
