@@ -44,7 +44,7 @@ You can set up this project using **Anaconda Navigator** without directly using 
 
 ## System requirements
 * **Software dependencies**:
-  * Supported platforms: MacOS and Ubuntu (with Python 3.6.9)
+  * Supported platforms: MacOS and Ubuntu (with Python)
   * See requirements.txt for a complete list of necessary libraries.
 
 * **Tested Versions** 
