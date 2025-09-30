@@ -3,7 +3,7 @@
 This repository contains the source code and dataset used in the study:
 
 - Kim et al. **Combined influence of artwork and artist features in predicting user generated art valuation**.
-- SSRN preprint available at: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5443234](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5443234)
+- SSRN preprint available at: [https://dx.doi.org/10.2139/ssrn.5443234](https://dx.doi.org/10.2139/ssrn.5443234)
 
 **Authors**:  
 Seunghwan Kim<sup>1+</sup>, Soomin Lee<sup>2+</sup>, Byunghwee Lee<sup>3,4*</sup>, Wonjae Lee<sup>1*</sup>  
