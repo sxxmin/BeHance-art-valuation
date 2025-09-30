@@ -3,13 +3,15 @@
 This repository contains the source code and dataset used in the study:
 
 - Kim et al. **Combined influence of artwork and artist features in predicting user generated art valuation**.
+- SSRN preprint available at: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5443234](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5443234)
 
 **Authors**:  
-Seunghwan Kim<sup>1+</sup>, Soomin Lee<sup>2+</sup>, Byunghwee Lee<sup>3*</sup>, Wonjae Lee<sup>1*</sup>  
+Seunghwan Kim<sup>1+</sup>, Soomin Lee<sup>2+</sup>, Byunghwee Lee<sup>3,4*</sup>, Wonjae Lee<sup>1*</sup>  
 
 <sup>1</sup> <sub>Graduate School of Culture Technology, Korea Advanced Institute of Science and Technology, Daejeon 34141, Republic of Korea</sub>  
 <sup>2</sup> <sub>Department of Computer Science and Engineering, Chungnam National University, Daejeon 34134, Republic of Korea</sub>  
-<sup>3</sup> <sub>Center for Complex Networks and Systems Research, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN 47408, USA</sub>  
+<sup>3</sup> <sub>School of Data Science, University of Virginia, Charlottesville, VA 22903, USA</sub>  
+<sup>4</sup> <sub>Center for Complex Networks and Systems Research, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN 47408, USA</sub>  
 
 <sup>+</sup> <sub>S.K. and S.L. contributed equally to this work.</sub>  <sup>*</sup> <sub>Corresponding author.</sub>  
 
