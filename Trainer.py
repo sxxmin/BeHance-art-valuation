@@ -18,11 +18,11 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--model', type=str, default='LR') # {LR, NB, XGB, EBM}
 parser.add_argument('--target', type=str, default='view') # {appreciation, view}
 parser.add_argument('--engaging_group', type=str, default='Artist') # {Artist, Artwork, All}
-parser.add_argument('--using_c_variable', type=str2bool, default=True)
+parser.add_argument('--using_c_variable', type=str2bool, default=False)
 parser.add_argument('--window_opt', type=str, default='')
 
 args = parser.parse_args()
-record_date = '250603'
+record_date = '260812'
 window_opt = args.window_opt
 
 save_filename = f'{args.model}+{args.target}+{args.engaging_group}+{args.using_c_variable}'
@@ -69,10 +69,19 @@ X_tst, y_tst = X.iloc[test_indices], y[test_indices]
 if args.engaging_group == 'Artwork':
     del X_trn[a_split_indicator]; del X_tst[a_split_indicator]
     
-if not args.using_c_variable:
+if not args.using_c_variable: # To remove control variable
     del X_trn[a_cont_variable]; del X_tst[a_cont_variable]
     
-    
+
+# To remove publication year info.
+pub_infos = [f'Artist_Project_publication_year_20{i}' for i in range(10, 21)]
+
+try: # only include engaging group which are {Artist, All}
+    X_trn.drop(columns=pub_infos, inplace=True)
+    X_tst.drop(columns=pub_infos, inplace=True)
+except:
+    pass
+
 store_outputs = dict()
 
 os.makedirs(f'./dataset/models/{window_opt}/{record_date}', exist_ok=True)
@@ -99,7 +108,7 @@ elif args.model == 'NB':
     X_trn, X_tst = sm.add_constant(X_trn, prepend=False, has_constant='add'), sm.add_constant(X_tst, prepend=False, has_constant='add')
     model = sm.GLM(y_trn, X_trn, family=sm.families.NegativeBinomial())
     results = model.fit()
-    store_outputs['y'], store_outputs['y_hat'] = np.log10(y_tst.values), np.log10(results.predict(X_tst).values)
+    store_outputs['y'], store_outputs['y_hat'] = np.log10(y_tst.values), np.log10(results.predict(X_tst).values) # for calculate metric, at the same scale
 
     results_summary = pds.DataFrame({
         'Parameter': results.params.index,
