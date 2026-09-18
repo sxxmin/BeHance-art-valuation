@@ -25,6 +25,14 @@ Seunghwan Kim<sup>1,2+</sup>, Soomin Lee<sup>3+</sup>, Byunghwee Lee<sup>4,5*</s
 
 
 
+## Predictor Label Updates
+
+- Some predictor labels were renamed in the revised manuscript for clarity and consistency. Earlier labels may remain in the code and data files.
+- See [src/README.md](src/README.md#predictor-label-updates) for the full mapping between earlier labels and revised manuscript labels.
+- These naming changes do not alter predictor values or analytical results.
+
+
+
 ## Installation
 
 You can set up this project using **Anaconda Navigator** without directly using the command line.
